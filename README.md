@@ -1,6 +1,6 @@
 ## ENG - Example of Work
 
-<img src="images/example_1.png" alt="" width="250" height="250"> <img src="images/example_2.png" alt="" width="250" height="250"> <img src="images/example_3.png" alt="" width="250" height="250">
+<img src="examples/example_1.png" alt="" width="250" height="250"> <img src="examples/example_2.png" alt="" width="250" height="250"> <img src="examples/example_3.png" alt="" width="250" height="250">
 
 ## How to View the Code?
 
@@ -18,7 +18,7 @@ The closed project uses the `MIT` license.
 
 ## RUS - Пример работы
 
-<img src="images/example_1.png" alt="" width="250" height="250"> <img src="images/example_2.png" alt="" width="250" height="250"> <img src="images/example_3.png" alt="" width="250" height="250">
+<img src="examples/example_1.png" alt="" width="250" height="250"> <img src="examples/example_2.png" alt="" width="250" height="250"> <img src="examples/example_3.png" alt="" width="250" height="250">
 
 ## Как посмотреть код?
 
