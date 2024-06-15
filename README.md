@@ -4,11 +4,11 @@
 
 ## ENG - How to View the Code?
 
-This project is private. For additional information, contact @xAvakov via Telegram.
+For more information, contact via [Telegram](https://t.me/xAvakov).
 
 ## Note
 
-If you have any suggestions to improve the code, please contact @xAvakov via Telegram.
+If you have any suggestions to improve the code, please contact via Telegram](https://t.me/xAvakov).
 
 Description of the files and the files themselves are only in a private copy
 
@@ -18,11 +18,11 @@ The closed project uses the `MIT` license.
 
 ## RUS - Как посмотреть код?
 
-Этот проект находится в закрытом доступе, для дополнительной информации связавшись с @xAvakov через Telegram
+Для дополнительной информации свяжитесь через [Telegram](https://t.me/xAvakov).
 
 ## Примечание
 
-Если у вас есть какие-либо предложения улучшить код, обратитесь к @xAvakov через Telegram.
+Если у вас есть какие-либо предложения улучшить код, свяжитесь через [Telegram](https://t.me/xAvakov).
 
 Описание файлов и сами файлы только в закрытой копии
 
