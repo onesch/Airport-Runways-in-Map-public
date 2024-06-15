@@ -8,7 +8,7 @@ For more information, contact via [Telegram](https://t.me/xAvakov).
 
 ## Note
 
-If you have any suggestions to improve the code, please contact via Telegram](https://t.me/xAvakov).
+If you have any suggestions to improve the code, please contact via [Telegram](https://t.me/xAvakov).
 
 Description of the files and the files themselves are only in a private copy
 
